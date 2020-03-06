@@ -1,0 +1,55 @@
+
+/* * is selection all tag*/
+*{
+    margin:0; 
+}
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+
+}
+.colorRed{
+    background-color: red;;
+}
+.colorBlue{
+    background-color: blue;
+}
+.colorOrange{
+    background-color: orange;
+}
+.colorPurple{
+    background-color: purple;
+}
+
+.box1{
+    width: 33.33%;
+    height: 200px;
+    float: left;
+}
+.box2{
+    width: 100%;
+    height: 200px;
+    float: left;
+}
+.box3{
+    width: 50%;
+    height: 200px;
+    float: left;
+}
+.box4{
+    width: 60%;
+    height: 200px;
+    float: left;
+}
+.box5{
+    width: 20%;
+    height: 200px;
+    float: left;
+}
+.box6{
+    width: 20%;
+    height: 200px;
+    float: left;
+}
+
